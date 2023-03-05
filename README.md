@@ -1,2 +1,2 @@
 # Toy-Projects
-Miscellaneous projects
+Toy projects
